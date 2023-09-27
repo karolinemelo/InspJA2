@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+background: url(images.jpg);
+background-size: cover;
+height: 100%;
+text-align: center;
+}
+#titulo {
+    color:white;
+    padding-top: 15%;
+    font-size: 40px;
+}
+#subtitulo {
+    color:white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 25px;
+        text-shadow: 1px 1px  black;
+}
+#Saiba_Mais {
+    color:white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px
+}
+
+.icone {
+    width: 100px;
+}
+.destaque {
+    background-color:rgb(163, 28, 69);
+    color: white;
+}
+section{
+    text-align: justify;
+    padding: 20;
+}
+.img {
+    width: 90%;
+}
