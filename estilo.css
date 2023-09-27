@@ -26,16 +26,34 @@ text-align: center;
 }
 
 .icone {
-    width: 100px;
+    background-size: cover;
+    padding: 5% 5% 5% 5%;
+    height: 100;
 }
 .destaque {
     background-color:rgb(163, 28, 69);
     color: white;
 }
 section{
-    text-align: justify;
     padding: 20;
+    float: left;
+    text-align: justify;
 }
 .img {
     width: 90%;
+}
+.coluna {
+    float: left;
+    padding: 20;
+    position: relative;
+    width: 40%;
+}
+.centralizado {
+    text-align: center;
+}
+.coluna4 {
+    float: left;
+    padding: 5% 5% 5% 5%;
+    position: relative;
+    width: 15%;
 }
